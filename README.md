@@ -1,2 +1,8 @@
-# TechLadies-Bootcamp-4-submission
-TechLadies Bootcamp 4 submission
+# React Todo List Lab
+
+### Getting Started
+
+- Fork and clone repo
+- `cd react-todo-list`
+- `npm install`
+
